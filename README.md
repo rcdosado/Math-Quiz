@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 MathQuiz
 ========
 
@@ -54,3 +55,9 @@ copyleft 2014 0x726364.
 
 
 
+=======
+Math-Quiz
+=========
+
+simple math quiz application with customized operands and operators
+>>>>>>> a91c2859c6676e7b1d8c85fbbaa73b083dcda79c
