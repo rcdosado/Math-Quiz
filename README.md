@@ -11,10 +11,11 @@ and coded as an exercise for that pattern. It has the following features:
 
 ![Alt text](/img/settings.png?raw=true "Settings window")
 
- -can generate custom operand range, aside from basic 1-10,11-100 ranges
- -user defined number of items, and ability to set how much farther the wrong answer from the correct one.
- -can save settings to a file
- -uses the miglayout library for simple and more readable GUI programming in java
+
+  - can generate custom operand range, aside from basic 1-10,11-100 ranges
+  - user defined number of items, and ability to set how much farther the wrong answer from the correct one.
+  - can save settings to a file
+  - uses the miglayout library for simple and more readable GUI programming in java
 
 Requirements 
 ------------
