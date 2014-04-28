@@ -4,9 +4,12 @@ MathQuiz
 What is this About 
 ==================
 
+![Alt text](/img/main-window.png?raw=true "Main window")
+
 A math quiz java application written using Eclipse it generally uses basic MVC architecture
 and coded as an exercise for that pattern. It has the following features:
 
+![Alt text](/img/settings.png?raw=true "Settings window")
  -can generate custom operand range, aside from basic 1-10,11-100 ranges
  -user defined number of items, and ability to set how much farther the wrong answer from the correct one.
  -can save settings to a file
@@ -29,6 +32,9 @@ then you can test and run it.
 
 How to Run 
 ----------
+
+![Alt text](/img/quiz-ongoing.png?raw=true "During quiz")
+
 assuming you have installed the latest jvm, just run the MathQuiz.jar java executable
 
 
